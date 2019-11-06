@@ -81,6 +81,11 @@ h6 {
   overflow: hidden;
   background: #fff;
 }
+#team img {
+  width: 200px;
+  height: 200px;
+  object-fit: scale-down;
+}
 
 #preloader:before {
   content: "";
