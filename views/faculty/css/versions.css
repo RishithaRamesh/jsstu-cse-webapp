@@ -265,9 +265,9 @@ body.app_version .footer-social .btn {
     line-height: 33px;
     text-align: center;
     margin: 0 3px;
-    border: 1px solid #e80d45 !important;
+    border: 1px solid #004a99 !important;
     color: #ffffff;
-    background-color: #e80d45 !important;
+    background-color: #004a99 !important;
 }
 
 body.app_version .dev-list .widget {
